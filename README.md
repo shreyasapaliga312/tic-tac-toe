@@ -23,5 +23,8 @@ This project demonstrates basic game logic, DOM manipulation, and event handling
 
 ---
 
-## 📂 Project Structure
+## Screen shot
+
+![Tic Tac Toe Screenshot](screenshot.png)
+
 
